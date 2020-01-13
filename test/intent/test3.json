@@ -1,7 +1,0 @@
-{
-  "utterance": "name",
-  "intent_type": "your.name",
-  "intent": {
-    "HelloWorldKeyword": "name"
-  }
-}
