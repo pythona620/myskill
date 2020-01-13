@@ -1,7 +1,0 @@
-{
-  "utterance": "joke",
-  "intent_type": "jokeIntent",
-  "intent": {
-    "ThankYouKeyword": "j.o.k.e"
-  }
-}
