@@ -1,0 +1,7 @@
+{
+  "utterance": "my skill",
+  "intent_type": "skill",
+  "intent": {
+    "myskillKeyword": "testing"
+  }
+}
